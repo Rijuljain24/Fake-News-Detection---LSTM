@@ -5,9 +5,8 @@ This project aims to detect **fake news articles** using **Machine Learning (ML)
 
 ## 🚀 Features  
 ✅ Preprocessing of textual data (removal of stopwords, lemmatization, etc.)  
-✅ TF-IDF vectorization for text representation  
-✅ ML models like **Logistic Regression, Random Forest, Naïve Bayes, LSTM**  
-✅ Accuracy and performance evaluation on test data  
+✅ ML models like **NLP, LSTM**  
+✅ Accuracy and performance evaluation on test data  - 96%
 ✅ Interactive interface for news verification  
 
 ## 🏗️ Tech Stack  
